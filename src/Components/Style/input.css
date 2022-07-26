@@ -1,0 +1,27 @@
+.main_box{
+    /* border: 1px solid black; */
+    margin-top: 170px;
+    padding-left: 180px;
+    color: black;
+}
+
+.term_input{
+    border: 1px solid black;
+    padding-right:50px;
+    padding-left: 10px;
+    padding-top:10px;
+    padding-bottom: 10px;
+    margin-top: 30px;
+    border-radius: .35rem;
+}
+
+.subject_input{
+    border: 1px solid black;
+    padding-right:10px;
+    padding-left: 5px;
+    padding-top:5px;
+    padding-bottom: 5px;
+    margin-top: 10px;
+    border-radius: .25rem;
+}
+
